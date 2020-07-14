@@ -6,4 +6,4 @@ Excel file example
 | :------------ | :-----------: | -----------: | ---------------: |
 | Switch1       | 10.0.0.1      | Ten 1/1/1    | Switch2          |
 | Switch2       | 10.0.0.2      | Gig 0/52     | Switch3          |
-|               | 10.0.0.3      | Gig 0/1      | Switch4          |
+|               |             | Gig 0/1      | Switch4          |
